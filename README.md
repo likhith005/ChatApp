@@ -37,7 +37,7 @@ This is a simple chat application built with Node.js for the server-side and Rea
 
 ## Contributing
 
-Contributions are welcome! Please fork the repository and submit a pull request with your changes.
+-Contributions are welcome! Please fork the repository and submit a pull request with your changes.
 
 
 
