@@ -28,14 +28,16 @@ This is a simple chat application built with Node.js for the server-side and Rea
 
 ## Configuration
 
-   # Server:
-    The server runs on port 5001 by default. You can change the port in the index.js file.
-    Modify the Socket.io configuration in index.js as needed.
-    Client:
-    Update the server endpoint in Chat.js file located in the src/components/Chat directory if your server is running on a different host or port.
-  
-   # Contributing
-    Contributions are welcome! Please fork the repository and submit a pull request with your changes.
+### Server:
+- The server runs on port 5001 by default. You can change the port in the index.js file.
+- Modify the Socket.io configuration in index.js as needed.
+
+### Client:
+- Update the server endpoint in Chat.js file located in the src/components/Chat directory if your server is running on a different host or port.
+
+## Contributing
+
+Contributions are welcome! Please fork the repository and submit a pull request with your changes.
 
 
 
